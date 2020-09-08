@@ -1,0 +1,40 @@
+#words {
+  padding-top: 8%;
+  text-align: center;
+}
+
+body {
+  background: url(https://media1.s-nbcnews.com/i/newscms/2020_24/3389929/200614-donald-trump-rally-cs-429p_ca79babf0a9909609c7d5fa1676265be.jpg);
+  background-size: cover;
+  font-family: 'Roboto Mono', monospace;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 5em;
+  text-shadow: -2px -2px 2px black;
+}
+
+h2 {
+  font-weight: bold;
+  text-shadow: -1px -1px 2px black;
+}
+
+html {
+  height: 100%;
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
